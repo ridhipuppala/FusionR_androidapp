@@ -1,1 +1,1 @@
-# Android application for Sensoro fusion of phone orientation tracking 
+# Android application for Sensor fusion of phone orientation tracking 
